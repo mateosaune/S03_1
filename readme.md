@@ -30,10 +30,17 @@ Table data (td) === Columnas
 2. Render (JPG , PNG , GIF)
 3. Vectorial (SVG)
 
+  ## AUDIO Y VIDEO
+
+1. Video (.mp4 format)
+2. Audio (.mp3 format)
+
 <!--
   Crear repositorio (html-02)
   crear archivo index.html
   crear archivo listas.html (ejemplo de listas)
   crear archivo navegacion.html (ejemplo de menu perfecto)
   crear archivo tablas.html (ejemplo de tablas)
+  crear archivo imagenes.html (ejemplo de imagenes)
+  crear archivo audio_video.html (ejemplo de audio y video)
 -->
