@@ -1,6 +1,6 @@
-#SEMANA S03-1
+# SEMANA S03-1
 
-##LISTAS
+## LISTAS
 
 1. Existen 3 tipos de listas
 2. Listas ordenadas - orderlists (ol) 
@@ -8,15 +8,15 @@
 4. Listas anidadas  (ol-ul)
 5. Cada lista tiene elementos llamados - listitemas (li)
 
-##NAV
+## NAV
 
 1. DONE
 
-##EMMET
+## EMMET
 
 1. DONE
 
-##TABLES
+## TABLES
 
 1. Para mostar el contenido tabulado
 2. Para mostar informacion en e formato 
