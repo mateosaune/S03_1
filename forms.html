@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- FORM -->
+
+  <h2>DEVS BOOTCAMP</h2>
+    
+  <form action="./message.html">
+    <div>
+      <nav>
+        <label for="nameElement">Name: </label>
+        <input type="text" id="nameElement" minlength="2" maxlength="15" autocomplete="off" required placeholder="Mateo">  
+      </nav>
+      <nav>
+        <label for="lastnameElement">Lastname:</label>
+        <input type="text" id="lastnameElement" minlength="3" maxlength="20" autocomplete="off" required placeholder="Saune">
+      </nav>
+    </div>
+    <br>
+    <div>
+      <label for="emailElement">Email: </label>
+      <input type="email" id="emailElement" required>
+    </div>
+    <br>
+    <div>
+      <label for="telElement">Phonenumber: </label>
+      <input type="tel" id="telElement" required>
+    </div>
+    <br>
+    <div>
+      <label for="dniElement">DNI: </label>
+      <input type="tel" id="dniElement" maxlength="8" required>
+    </div>
+    <br>
+    <div>
+      <nav>
+        <label for="specialtyElement">Specialty: </label>
+        <select id="specialtyElement"required>
+          <option value="0">Backend Roadmap</option>
+          <option value="1">Frontend Roadmap</option>
+          <option value="2">Full Stack Roadmap</option>
+        </select>
+      </nav>
+      <nav>
+        <label for="modeElement">Mode class: </label>
+        <select id="modeElement"required>
+          <option value="0">In-person modality</option>
+          <option value="1">Virtual modality</option>
+          <option value="2">Hybrid modality</option>
+        </select>
+      </nav>
+    </div>
+    <br>
+      <!-- <input type="submit" value="Send"> -->
+      <button type="submit">Contact Me</button>
+    </div>
+  </form>
+</body>
+</html>
