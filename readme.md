@@ -30,10 +30,27 @@ Table data (td) === Columnas
 2. Render (JPG , PNG , GIF)
 3. Vectorial (SVG)
 
-  ## AUDIO Y VIDEO
+## AUDIO Y VIDEO
 
 1. Video (.mp4 format)
 2. Audio (.mp3 format)
+
+## FORMULARIO
+
+1. Conjunto de campos
+2. Etiqueta - <form></form>
+3. Emmet crea form con atributo action
+
+## ENVIAR FORMULARIO / SUBMIT
+
+1. Input
+2. Button
+
+## INPUT
+
+1. Etiqueta mas usada de forms
+2. Se recomiendo que contenga labels
+
 
 <!--
   Crear repositorio (html-02)
@@ -44,3 +61,9 @@ Table data (td) === Columnas
   crear archivo imagenes.html (ejemplo de imagenes)
   crear archivo audio_video.html (ejemplo de audio y video)
 -->
+
+
+
+<!-- Crear archivo formularios.html
+    Describir los inputs, selects, text area etc, etiquetas html5 nuevas(input) ,  atributos nuevos,
+    required,disabled, min, max, maxlength -->
